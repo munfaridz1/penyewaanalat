@@ -1,1 +1,11 @@
-body { font-family: Arial; background: #f4f4f4; padding: 20px; } h1 { color: #333; } nav a { margin-right: 10px; color: blue; text-decoration: none; }
+.btn {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
